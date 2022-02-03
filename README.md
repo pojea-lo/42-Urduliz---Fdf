@@ -1,14 +1,17 @@
-# 42-Urduliz---Fdf:\n
+# 42-Urduliz---Fdf:
 
-Páginas interesantes con documentación:\n
+Páginas interesantes con documentación:
 
-*La librería gráfica mlx se puede descargar de:\n
-  https://github.com/42Paris/minilibx-linux/tree/master/man\n
+*La librería gráfica mlx se puede descargar de:
 
-*Páginas web que explican como trabajar con ellas:\n
-  https://gontjarow.github.io/MiniLibX/\n
-  https://harm-smits.github.io/42docs/libs/minilibx.html\n
-  https://github.com/VBrazhnik/FdF/wiki\n
+  https://github.com/42Paris/minilibx-linux/tree/master/man
+
+*Páginas web que explican como trabajar con ellas:
+
+  https://gontjarow.github.io/MiniLibX/
+  https://harm-smits.github.io/42docs/libs/minilibx.html
+  https://github.com/VBrazhnik/FdF/wiki
   
-*La corrección:\n
-  https://github.com/caecitasminimus/school21-checklists\n
+*La corrección:
+
+  https://github.com/caecitasminimus/school21-checklists
