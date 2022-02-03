@@ -8,8 +8,10 @@ Páginas interesantes con documentación:
 
 *Páginas web que explican como trabajar con ellas:
 
-  https://gontjarow.github.io/MiniLibX/
+  https://gontjarow.github.io/MiniLibX
+  
   https://harm-smits.github.io/42docs/libs/minilibx.html
+  
   https://github.com/VBrazhnik/FdF/wiki
   
 *La corrección:
