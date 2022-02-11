@@ -14,6 +14,8 @@ Páginas interesantes con documentación:
   
   https://github.com/VBrazhnik/FdF/wiki
   
+  https://github.com/VBrazhnik/FdF/wiki
+  
 *La corrección:
 
   https://github.com/caecitasminimus/school21-checklists
