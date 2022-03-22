@@ -13,7 +13,3 @@ Páginas interesantes con documentación:
   https://harm-smits.github.io/42docs/libs/minilibx.html
   
   https://github.com/VBrazhnik/FdF/wiki
-  
-*La corrección:
-
-  https://github.com/caecitasminimus/school21-checklists
